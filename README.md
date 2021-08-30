@@ -1,6 +1,6 @@
  👋 Olá! Eu sou @IgorSnake19
 - 👀 Eu sou interessado em Full-Stack, Front-End Development e Mobile.
-- 🌱 Atualmente estou aprendendo HTML,CSS,JS e C.
+- 🌱 Atualmente estou aprendendo HTML,CSS,JS,React e C.
 
 <div>
   <a href="https://github.com/IgorSnake19">
