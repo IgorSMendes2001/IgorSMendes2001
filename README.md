@@ -1,6 +1,6 @@
  👋 Olá! Eu sou @IgorSnake19
 - 👀 Eu sou interessado em Front-End Development.
-- 🌱 Atualmente estou aprendendo HTML,CSS,JS,React e C.
+- 🌱 Atualmente estou aprendendo JS,ReactJs,NodeJs,Typescript e C.
 
 <div>
   <a href="https://github.com/IgorSnake19">
