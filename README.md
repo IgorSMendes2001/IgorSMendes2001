@@ -1,11 +1,11 @@
- 👋 Olá! Eu sou @IgorSnake19
-- 👀 Eu sou interessado em Front-End Development.
-- 🌱 Atualmente estou aprendendo JS,ReactJs,NodeJs,Typescript e C.
+ 👋 Olá! Eu sou @IgorSMendes2001
+- 👀 Eu sou interessado em Full-Stack Development.
+- 🌱 Atualmente estou aprendendo JS,Java,NodeJs,Typescript.
 
 <div>
-  <a href="https://github.com/IgorSnake19">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorSnake19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSnake19&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/IgorSMendes2001">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorSMendes2001show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSMendes2001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
