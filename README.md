@@ -1,6 +1,6 @@
  👋 Olá! Eu sou @IgorSMendes2001
 - 👀 Eu sou interessado em Full-Stack Development.
-- 🌱 Atualmente estou aprendendo JS,Java,NodeJs,Typescript.
+- 🌱 Atualmente estou aprendendo JS,Java,SpringBoot,Typescript.
 
 <div>
   <a href="https://github.com/IgorSMendes2001">
