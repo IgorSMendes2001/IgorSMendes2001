@@ -13,7 +13,6 @@
   <img align="center" alt="Igor-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Igor-Snake" src="https://media.tenor.com/images/f2d6ee9cbd2f9176808f55d5b0c5d3c7/tenor.gif">
 </div>
 </div>
 
