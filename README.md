@@ -1,6 +1,5 @@
  👋 Olá! Eu sou @IgorSMendes2001
-- 👀 Eu sou interessado em Full-Stack Development.
-- 🌱 Atualmente estou aprendendo JS,Java,SpringBoot,Typescript.
+- 👀 Eu sou Full-Stack Developer JR na Accenture.
 
 <div>
   <a href="https://github.com/IgorSMendes2001">
