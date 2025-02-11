@@ -1,5 +1,5 @@
  👋 Olá! Eu sou @IgorSMendes2001
-- 👀 Eu sou Full-Stack Developer JR na Accenture.
+- 👀 Eu sou Full-Stack Developer Pleno na Compass UOL.
 
 <div>
   <a href="https://github.com/IgorSMendes2001">
